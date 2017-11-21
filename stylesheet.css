@@ -1,3 +1,19 @@
 h1 {
 	font-family: 'Pacifico', cursive;
 }
+a:link {
+    color: FireBrick;
+    text-decoration: none;
+}
+a:hover {
+    color: IndianRed;
+    text-decoration: underline;
+}
+a:visited {
+    color: pink;
+    text-decoration: none;
+}
+a:active {
+    color: LightPink;
+    text-decoration: underline;
+}
